@@ -26,7 +26,7 @@ Allara is expanding its telehealth services, necessitating a scalable and effici
 
 - Appointments should be 30 minutes long, with an additional 15-minute buffer before and after each appointment.
 - Schedule appointments to start on the quarter-hour (e.g., 8:00, 8:15, 8:30).
-- Prioritize afternoon and early evening hours for scheduling due to higher patient availability.
+- Prioritize appointments at the of the day to account for higher patient demand, i.e. the last appointment available should end exactly at the end of the provider's day. 
 
 **Example Input:**
 ```
