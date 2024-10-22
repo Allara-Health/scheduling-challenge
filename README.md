@@ -16,11 +16,11 @@ Allara is expanding its telehealth services, necessitating a scalable and effici
 
 - Develop a command-line application to process a file input detailing healthcare providers' availability and output a schedule of appointments.
 - Each appointment slot should include a 30-minute consultation with a 5-minute buffer before and after for preparation and follow-up.
-- Optimize the schedule to prioritize appointments during high-demand hours while ensuring adherence to providers' availability and time zones.
+- Optimize the schedule to prioritize appointments during high-demand hours while ensuring adherence to providers' availability.
 
 **Operational Constraints:**
 
-- Providers' work hours are from 8:00am to 8:00pm, Monday through Friday, adjusted to their local time zones.
+- Providers' work hours are from 8:00am to 8:00pm, Monday through Friday.
 
 **Business Rules:**
 
@@ -76,3 +76,4 @@ Dr. Shaggy Rogers - Available Times:
 
 How to run JS: `node schedule.js`
 How to run python: `python3 schedule.py` 
+How to run ts: `npx tsx schedule.ts`
