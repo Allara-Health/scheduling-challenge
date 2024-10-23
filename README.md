@@ -74,6 +74,5 @@ Dr. Shaggy Rogers - Available Times:
   16:25 - 16:55
 ```
 
-How to run JS: `node schedule.js`
 How to run python: `python3 schedule.py` 
 How to run ts: `npx tsx schedule.ts`
